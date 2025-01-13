@@ -1,5 +1,5 @@
 - Hi, I’m Dylan Negvesky
-- I’m interested in cybersecurity, AI, and front-end development
+- I’m interested in cybersecurity, AI, and back-end development
 - I’m currently learning everything there is to know in C++
 - Pronouns: he/him
 - 🍢 GO Noles!
